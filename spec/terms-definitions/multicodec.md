@@ -4,4 +4,3 @@
 
 ~ See more at [GitHub Multi-codec](https://github.com/multiformats/multicodec)
 
-~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/multicodec">extended KERI glossary</a>

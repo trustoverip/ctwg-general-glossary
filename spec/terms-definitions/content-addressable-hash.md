@@ -4,4 +4,3 @@
 
 ~ Content addressing is a way to find data in a network using its content rather than its location. The way we do is by taking the content of the content and hashing it. Try uploading an image to IPFS and get the hash using the below button. 
 
-~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/content-addressable-hash">extended KERI glossary</a>

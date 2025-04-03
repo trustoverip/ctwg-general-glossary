@@ -4,4 +4,3 @@
 ~ More on [wikipedia](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)  
 ~ So also the often confusing [[ref: GPG]] term.
 
-~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/pretty-good-privacy">extended KERI glossary</a>

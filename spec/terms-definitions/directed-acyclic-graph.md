@@ -6,4 +6,3 @@
 
 ~ <img src="https://hackmd.io/_uploads/rywIzRLo5.png" width="219" height="300" alt="A directed acyclic graph (DAG)"/>
 
-~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/directed-acyclic-graph">extended KERI glossary</a>

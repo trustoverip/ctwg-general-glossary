@@ -4,4 +4,3 @@
 
 ~ It is a two-part identifier for file formats and format contents transmitted on the internet. Their purpose is somewhat similar to file extensions in that they identify the intended data format.
 
-~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/media-type">extended KERI glossary</a>

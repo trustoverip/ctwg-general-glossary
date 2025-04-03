@@ -5,4 +5,3 @@
 
 ~ More on source [Wikipedia](https://en.wikipedia.org/wiki/Canonicalization)
 
-~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/canonicalization">extended KERI glossary</a>

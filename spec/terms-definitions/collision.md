@@ -5,4 +5,3 @@
 ~ E.g. two hashes collide, meaning two different digital sources produce the same hash.  
 ~ Another example is [name(space) collision](https://en.wikipedia.org/wiki/Naming_collision).
 
-~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/collision">extended KERI glossary</a>

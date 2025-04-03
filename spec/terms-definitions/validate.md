@@ -4,4 +4,3 @@
 ~ - evaluate
 ~ - [[ref: verify]]
 
-~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/validate">extended KERI glossary</a>

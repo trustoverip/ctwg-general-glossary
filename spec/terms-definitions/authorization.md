@@ -4,4 +4,3 @@
 
 ~ More formally, "to authorize" is to define an access policy.
 
-~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/authorization">extended KERI glossary</a>

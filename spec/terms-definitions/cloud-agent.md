@@ -4,4 +4,3 @@
 ~ _Paraphrased by @henkvancann based on [source](https://www.cloudopedia.com/cloud-agent/)_.   
 ~ Also see [[ref: agent]].
 
-~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/cloud-agent">extended KERI glossary</a>

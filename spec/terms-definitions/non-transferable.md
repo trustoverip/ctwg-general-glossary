@@ -4,4 +4,3 @@
 
 ~ For example not legally transferable to the ownership of another entity.
 
-~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/non-transferable">extended KERI glossary</a>

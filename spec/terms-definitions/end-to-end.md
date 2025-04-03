@@ -5,4 +5,3 @@
 ~ 2.	E2E Provenance.  Data flow transformations must be end-to-end provenanced using verifiable data items (verifiable data chains or VCs). Every change shall be provenanced.
 
 ~ Paraphrased from source [Universal Identifier Theory](https://github.com/SmithSamuelM/Papers/blob/master/whitepapers/IdentifierTheory_web.pdf) by Samuel Smith
-~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/end-to-end">extended KERI glossary</a>

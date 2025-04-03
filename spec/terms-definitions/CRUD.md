@@ -4,4 +4,3 @@
 
 ~ CRUD as opposed to [[ref: RUN]] which is the acronym for the new peer-to-peer end-verifiable monotonic update policy.
 
-~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/CRUD">extended KERI glossary</a>
