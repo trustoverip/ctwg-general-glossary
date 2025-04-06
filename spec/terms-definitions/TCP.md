@@ -1,3 +1,3 @@
-[[def: TCP, TCP]]
+[[def: TCP]]
 
 ~ [[ref: transmission-control-protocol]]
