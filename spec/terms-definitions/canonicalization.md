@@ -4,4 +4,3 @@
 ~ This can be done to compare different representations for equivalence, to count the number of distinct data structures, to improve the efficiency of various algorithms by eliminating repeated calculations, or to make it possible to impose a meaningful sorting order.
 
 ~ More on source [Wikipedia](https://en.wikipedia.org/wiki/Canonicalization)
-

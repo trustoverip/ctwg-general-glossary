@@ -4,4 +4,3 @@
 
 ~ E.g. two hashes collide, meaning two different digital sources produce the same hash.  
 ~ Another example is [name(space) collision](https://en.wikipedia.org/wiki/Naming_collision).
-
