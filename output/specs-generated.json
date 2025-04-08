@@ -8,7 +8,10 @@
       "spec_terms_directory": "terms-definitions",
       "output_path": "./docs",
       "markdown_paths": [
-        "spec-head.md",
+        "title.md",
+        "header.md",
+        "introduction.md",
+        "referenced_glossaries.md",
         "terms-and-definitions-intro.md",
         "terms-definitions/ADR.md",
         "terms-definitions/API.md",
@@ -216,9 +219,7 @@
         "terms-definitions/wallet.md",
         "terms-definitions/web-of-trust.md",
         "terms-definitions/zero-trust-computing.md",
-        "terms-definitions/zero-trust.md",
-        "example-markup-in-markdown.md",
-        "spec-body.md"
+        "terms-definitions/zero-trust.md"
       ],
       "logo": "https://raw.githubusercontent.com/trustoverip/spec-up-t/refs/heads/master/src/install-from-boilerplate/boilerplate/static/logo.svg",
       "logo_link": "https://github.com/trustoverip/spec-up-t",
