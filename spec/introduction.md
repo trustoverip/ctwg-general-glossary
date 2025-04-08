@@ -8,7 +8,7 @@ Contributions and feedback are encouraged from any stakeholder in this area of t
 
 This glossary is designed to be both human and machine readable. All terms are listed alphabetically; acronyms are listed separately and linked to the fully expanded terms. Document authors can link directly to any term using standard web links and anchors following this syntax:
 
-  `https://trustoverip.org/ctwg-general-glossary#term:xxxxx`
+  `https://trustoverip.github.io/ctwg-general-glossary#term:xxxxx`
 
 Where `xxxxx` is the term as it appears in the glossary, with any spaces are replaced by en-dashes (hyphens). For example, a link to the term `self-certifying identifer` would be:
 
