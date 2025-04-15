@@ -1,7 +1,7 @@
 {
   "specs": [
     {
-      "title": "Spec-Up-T Starterpack",
+      "title": "Spec-Up-T CTWG General Glossary",
       "description": "Create technical specifications in markdown. Based on the original Spec-Up, extended with Terminology tooling",
       "author": "Trust over IP Foundation",
       "spec_directory": "./spec",
@@ -227,7 +227,8 @@
       "source": {
         "host": "github",
         "account": "trustoverip",
-        "repo": "spec-up-t-starter-pack"
+        "repo": "ctwg-general-glossary",
+        "branch": "integrate"
       },
       "external_specs": [
         {
