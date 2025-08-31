@@ -1,4 +1,4 @@
-[[def: Service Level Agreement, service-level-agreement, SLA]] 
+[[def: service-level-agreement, Service Level Agreement, SLA]] 
 
 ~ A document that contains detailed descriptions of the services to be provided by service parties and the service level requirements expected for these services.
 
