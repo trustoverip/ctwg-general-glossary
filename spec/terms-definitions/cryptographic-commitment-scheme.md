@@ -4,4 +4,3 @@
 
 ~ Commitment schemes are designed so that a party cannot change the value or statement after they have committed to it: that is, commitment schemes are _binding_.  
 ~ More on [wikipedia](https://en.wikipedia.org/wiki/Commitment_scheme)
-~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/cryptographic-commitment-scheme">extended KERI glossary</a>
