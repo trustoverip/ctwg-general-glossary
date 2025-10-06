@@ -10,15 +10,18 @@
       "site": null,
       "avatarUrl": null,
       "ghPageUrl": "https://henkvancann.github.io/kerisuite-glossary/",
-      "commitHash": "6820014a1111b38dc3d653a0026ff981db2dee17",
-      "content": "<dd>\n<p><code>KERI</code>s definition of decentralization (centralization) is about <em>control</em> not <em>spatial distribution</em>. In our definition <em>decentralized</em> is not necessarily the same as <em>distributed</em>. By distributed we mean that activity happens at more than one site. Thus decentralization is about <em>control</em> and distribution is about <em>place</em>. To elaborate, when we refer to decentralized infrastructure we mean infrastructure under decentralized (centralized) control no matter its spatial distribution. Thus <em>decentralized infrastructure</em> is infrastructure sourced or controlled by more than one <code>entity</code>.</p>\n</dd>\n<dd>\n<p>TrustoverIP related <a class=\"x-term-reference term-reference\" data-local-href=\"#term:toip1:decentralized-identity\" href=\"https://henkvancann.github.io/ctwg-main-glossary/#term:decentralized-identity\">decentralized identity</a></p>\n</dd>\n<dd>\n<p>General IT description <a class=\"x-term-reference term-reference\" data-local-href=\"#term:toip2:decentralized-identity\" href=\"https://henkvancann.github.io/ctwg-general-glossary/#term:decentralized-identity\">decentralized-identity</a></p>\n</dd>",
+      "commitHash": "not found",
+      "content": "This term was not found in the external repository.",
       "sourceFile": "decentralized-identity.md",
       "sourceFiles": [
         {
           "file": "decentralized-identity.md",
           "type": "xref"
         }
-      ]
+      ],
+      "trefAliases": [],
+      "xrefAliases": [],
+      "branch": "integrate"
     },
     {
       "externalSpec": "toip1",
@@ -38,7 +41,10 @@
           "file": "transmission-control-protocol.md",
           "type": "xref"
         }
-      ]
+      ],
+      "trefAliases": [],
+      "xrefAliases": [],
+      "branch": "integrate"
     },
     {
       "externalSpec": "toip1",
@@ -58,7 +64,10 @@
           "file": "decentralized-identifier.md",
           "type": "xref"
         }
-      ]
+      ],
+      "trefAliases": [],
+      "xrefAliases": [],
+      "branch": "integrate"
     },
     {
       "externalSpec": "toip1",
@@ -78,7 +87,10 @@
           "file": "decentralized-identity.md",
           "type": "xref"
         }
-      ]
+      ],
+      "trefAliases": [],
+      "xrefAliases": [],
+      "branch": "integrate"
     }
   ]
 }
