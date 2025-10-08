@@ -6,4 +6,4 @@
 
 ~ Also known as: [[ref: TCP]].
 
-~ See also: [[xref: toip1, User Datagram Protocol]].
+~ See also: [[xref: toip1, user-datagram-protocol, User Datagram Protocol]].
