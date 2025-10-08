@@ -10,8 +10,8 @@ const allXTrefs = {
       "site": null,
       "avatarUrl": null,
       "ghPageUrl": "https://trustoverip.github.io/kerisuite-glossary/",
-      "commitHash": "771246137763222c634d6433856a7de512803f60",
-      "content": "<dd>\n<p><code>KERI</code>s definition of decentralization (centralization) is about <em>control</em> not <em>spatial distribution</em>. In our definition <em>decentralized</em> is not necessarily the same as <em>distributed</em>. By distributed we mean that activity happens at more than one site. Thus decentralization is about <em>control</em> and distribution is about <em>place</em>. To elaborate, when we refer to decentralized infrastructure we mean infrastructure under decentralized (centralized) control no matter its spatial distribution. Thus <em>decentralized infrastructure</em> is infrastructure sourced or controlled by more than one <code>entity</code>.</p>\n</dd>\n<dd>\n<p>TrustoverIP related <a class=\"x-term-reference term-reference\" data-local-href=\"#term:toip1:decentralized-identity\" href=\"https://henkvancann.github.io/ctwg-main-glossary/#term:decentralized-identity\">decentralized identity</a></p>\n</dd>\n<dd>\n<p>General IT description <a class=\"x-term-reference term-reference\" data-local-href=\"#term:toip2:decentralized-identity\" href=\"https://henkvancann.github.io/ctwg-general-glossary/#term:decentralized-identity\">decentralized-identity</a></p>\n</dd>",
+      "commitHash": "3e95a630b981ef5d4a4f36d37f4fc8b0e3456f40",
+      "content": "<dd>\n<p><code>KERI</code>s definition of decentralization (centralization) is about <em>control</em> not <em>spatial distribution</em>. In our definition <em>decentralized</em> is not necessarily the same as <em>distributed</em>. By distributed we mean that activity happens at more than one site. Thus decentralization is about <em>control</em> and distribution is about <em>place</em>. To elaborate, when we refer to decentralized infrastructure we mean infrastructure under decentralized (centralized) control no matter its spatial distribution. Thus <em>decentralized infrastructure</em> is infrastructure sourced or controlled by more than one <code>entity</code>.</p>\n</dd>\n<dd>\n<p>TrustoverIP related <a class=\"x-term-reference term-reference\" data-local-href=\"#term:toip1:decentralized-identity\" href=\"https://trustoverip.github.io/ctwg-main-glossary/#term:decentralized-identity\">decentralized identity</a></p>\n</dd>\n<dd>\n<p>General IT description <a class=\"x-term-reference term-reference\" data-local-href=\"#term:toip2:decentralized-identity\" href=\"https://trustoverip.github.io/ctwg-general-glossary/#term:decentralized-identity\">decentralized-identity</a></p>\n</dd>",
       "sourceFile": "decentralized-identity.md",
       "sourceFiles": [
         {
@@ -48,7 +48,7 @@ const allXTrefs = {
       "branch": "typosOut",
       "avatarUrl": null,
       "ghPageUrl": "https://trustoverip.github.io/ctwg-main-glossary/",
-      "commitHash": "14c500117675f9f6d804c96057514de9d7c17d0c",
+      "commitHash": "93f6e6d2a2d4daab9bff9a0cf9c856e76306eb36",
       "content": "<dd>\n<p>A <a class=\"term-reference\" href=\"#term:digital-identity\">digital identity</a> architecture in which a <a class=\"term-reference\" href=\"#term:digital-identity\">digital identity</a> is established via the control of a set of <a class=\"term-reference\" href=\"#term:cryptographic-keys\">cryptographic keys</a> in a <a class=\"term-reference\" href=\"#term:digital-wallet\">digital wallet</a> so that the <a class=\"term-reference\" href=\"#term:controller\">controller</a> is not dependent on any external <a class=\"term-reference\" href=\"#term:identity-provider\">identity provider</a> or other <a class=\"term-reference\" href=\"#term:third-party\">third party</a>.</p>\n</dd>\n<dd>\n<p>See also: <a class=\"term-reference\" href=\"#term:federated-identity\">federated-identity</a>, <a class=\"term-reference\" href=\"#term:self-sovereign-identity\">self-sovereign identity</a>.</p>\n</dd>\n<dd>\n<p>General IT description: <a class=\"x-term-reference term-reference\" data-local-href=\"#term:toip2:decentralized-identity\" href=\"https://trustoverip.github.io/ctwg-general-glossary/#term:decentralized-identity\">decentralized identity</a></p>\n</dd>\n<dd>\n<p>KERI related: <a class=\"x-term-reference term-reference\" data-local-href=\"#term:keri1:decentralized-identity\" href=\"https://trustoverip.github.io/kerisuite-glossary/#term:decentralized-identity\">decentralized identity</a></p>\n</dd>"
     },
     {
@@ -73,7 +73,7 @@ const allXTrefs = {
       "branch": "typosOut",
       "avatarUrl": null,
       "ghPageUrl": "https://trustoverip.github.io/ctwg-main-glossary/",
-      "commitHash": "14c500117675f9f6d804c96057514de9d7c17d0c",
+      "commitHash": "93f6e6d2a2d4daab9bff9a0cf9c856e76306eb36",
       "content": "<dd>\n<p>In computer networking, the User Datagram Protocol (UDP) is one of the core <a class=\"term-reference\" href=\"#term:communication\">communication</a> protocols of the <a class=\"term-reference\" href=\"#term:internet-protocol-suite\">Internet protocol suite</a> used to send <a class=\"term-reference\" href=\"#term:messages\">messages</a> (transported as <a class=\"term-reference\" href=\"#term:datagrams\">datagrams</a> in <a class=\"term-reference\" href=\"#term:packets\">packets</a>) to other hosts on an <a class=\"term-reference\" href=\"#term:internet-protocol\">Internet Protocol</a> (IP) network. Within an IP network, UDP does not require prior communication to set up <a class=\"term-reference\" href=\"#term:communication-channels\">communication channels</a> or data paths.</p>\n</dd>\n<dd>\n<p>Source: <a path-0=\"en.wikipedia.org\" path-1=\"wiki\" path-2=\"User_Datagram_Protocol\" href=\"https://en.wikipedia.org/wiki/User_Datagram_Protocol\">Wikipedia</a>.</p>\n</dd>\n<dd>\n<p>Also known as: <a class=\"term-reference\" href=\"#term:udp\">UDP</a>.</p>\n</dd>"
     },
     {
@@ -98,8 +98,30 @@ const allXTrefs = {
       "branch": "typosOut",
       "avatarUrl": null,
       "ghPageUrl": "https://trustoverip.github.io/ctwg-main-glossary/",
-      "commitHash": "14c500117675f9f6d804c96057514de9d7c17d0c",
+      "commitHash": "93f6e6d2a2d4daab9bff9a0cf9c856e76306eb36",
       "content": "<dd>\n<p>A globally unique persistent <a class=\"term-reference\" href=\"#term:identifier\">identifier</a> that does not require a centralized <a class=\"term-reference\" href=\"#term:registration\">registration</a> <a class=\"term-reference\" href=\"#term:authority\">authority</a> and is often generated and/or registered cryptographically. The generic format of a DID is defined in section <a path-0=\"www.w3.org\" path-1=\"TR\" path-2=\"did-core\" path-3=\"#did-syntax\" href=\"https://www.w3.org/TR/did-core/#did-syntax\">3.1 DID Syntax</a> of the <a path-0=\"www.w3.org\" path-1=\"TR\" path-2=\"did-core\" path-3=\"\" href=\"https://www.w3.org/TR/did-core/\">W3C Decentralized Identifiers (DIDs) 1.0</a> specification. A specific DID scheme is defined in a <a class=\"term-reference\" href=\"#term:did-method\">DID method</a> specification.</p>\n</dd>\n<dd>\n<p>Source: <a path-0=\"www.w3.org\" path-1=\"TR\" path-2=\"did-core\" path-3=\"#terminology\" href=\"https://www.w3.org/TR/did-core/#terminology\">W3C DID</a>.</p>\n</dd>\n<dd>\n<p>Also known as: <a class=\"term-reference\" href=\"#term:did\">DID</a>.</p>\n</dd>\n<dd>\n<p>See also: <a class=\"term-reference\" href=\"#term:did-method\">DID method</a>, <a class=\"term-reference\" href=\"#term:did-url\">DID URL</a>.</p>\n</dd>"
+    },
+    {
+      "externalSpec": "toip1",
+      "term": "agent",
+      "trefAliases": [],
+      "xrefAliases": [],
+      "sourceFiles": [
+        {
+          "file": "agency.md",
+          "type": "xref"
+        }
+      ],
+      "repoUrl": "https://github.com/trustoverip/ctwg-main-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "trustoverip",
+      "repo": "ctwg-main-glossary",
+      "site": null,
+      "branch": "typosOut",
+      "avatarUrl": null,
+      "ghPageUrl": "https://trustoverip.github.io/ctwg-main-glossary/",
+      "commitHash": "not found",
+      "content": "This term was not found in the external repository."
     }
   ]
 };
