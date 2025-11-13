@@ -1,3 +1,3 @@
-[[def: keypair, keypair, key pair]]
+[[def: keypair]]
 
-~ is an ordered pair consisting of a public key and its corresponding private key.
+~ [[ref:key-pair]]
