@@ -30,7 +30,7 @@ const allXTrefs = {
       ],
       "source": "xref",
       "termId": "term:decentralized-identity",
-      "lastUpdated": "2025-11-15T13:54:49.520Z"
+      "lastUpdated": "2025-11-19T23:28:37.072Z"
     },
     {
       "externalSpec": "toip1",
@@ -61,7 +61,7 @@ const allXTrefs = {
       ],
       "source": "xref",
       "termId": "term:decentralized-identity",
-      "lastUpdated": "2025-11-15T13:54:49.520Z"
+      "lastUpdated": "2025-11-19T23:28:37.072Z"
     },
     {
       "externalSpec": "toip1",
@@ -92,7 +92,7 @@ const allXTrefs = {
       ],
       "source": "xref",
       "termId": "term:user-datagram-protocol",
-      "lastUpdated": "2025-11-15T13:54:49.520Z"
+      "lastUpdated": "2025-11-19T23:28:37.072Z"
     },
     {
       "externalSpec": "toip1",
@@ -123,7 +123,7 @@ const allXTrefs = {
       ],
       "source": "xref",
       "termId": "term:decentralized-identifier",
-      "lastUpdated": "2025-11-15T13:54:49.520Z"
+      "lastUpdated": "2025-11-19T23:28:37.072Z"
     },
     {
       "externalSpec": "toip1",
@@ -151,7 +151,7 @@ const allXTrefs = {
       ],
       "source": "xref",
       "termId": "term:agent",
-      "lastUpdated": "2025-11-15T13:54:49.520Z"
+      "lastUpdated": "2025-11-19T23:28:37.071Z"
     }
   ]
 };
