@@ -10,7 +10,7 @@
       "site": null,
       "avatarUrl": null,
       "ghPageUrl": "https://trustoverip.github.io/kerisuite-glossary/",
-      "commitHash": "bf25539dd0b77927fa3719be5ca927ef3962c79e",
+      "commitHash": "8f8d96d688df28edd2e68492e2f0acca10102501",
       "content": "<dd>\n<p><code>KERI</code>s definition of decentralization (centralization) is about <em>control</em> not <em>spatial distribution</em>. In our definition <em>decentralized</em> is not necessarily the same as <em>distributed</em>. By distributed we mean that activity happens at more than one site. Thus decentralization is about <em>control</em> and distribution is about <em>place</em>. To elaborate, when we refer to decentralized infrastructure we mean infrastructure under decentralized (centralized) control no matter its spatial distribution. Thus <em>decentralized infrastructure</em> is infrastructure sourced or controlled by more than one <code>entity</code>.</p>\n</dd>",
       "sourceFile": "decentralized-identity.md",
       "sourceFiles": [
@@ -23,14 +23,14 @@
       "xrefAliases": [
         "decentralized identity"
       ],
-      "branch": "typosOut",
+      "branch": "main",
       "firstXrefAlias": "decentralized identity",
       "classes": [
         "term-local"
       ],
       "source": "xref",
       "termId": "term:decentralized-identity",
-      "lastUpdated": "2025-11-19T23:28:37.072Z"
+      "lastUpdated": "2025-11-26T09:48:43.359Z"
     },
     {
       "externalSpec": "toip1",
@@ -51,7 +51,7 @@
       "owner": "trustoverip",
       "repo": "ctwg-main-glossary",
       "site": null,
-      "branch": "typosOut",
+      "branch": "main",
       "avatarUrl": null,
       "ghPageUrl": "https://trustoverip.github.io/ctwg-main-glossary/",
       "commitHash": "78021acc7f16a97a72c5a9c51ac0151c8eb2e4b3",
@@ -61,7 +61,7 @@
       ],
       "source": "xref",
       "termId": "term:decentralized-identity",
-      "lastUpdated": "2025-11-19T23:28:37.072Z"
+      "lastUpdated": "2025-11-26T09:48:43.359Z"
     },
     {
       "externalSpec": "toip1",
@@ -82,7 +82,7 @@
       "owner": "trustoverip",
       "repo": "ctwg-main-glossary",
       "site": null,
-      "branch": "typosOut",
+      "branch": "main",
       "avatarUrl": null,
       "ghPageUrl": "https://trustoverip.github.io/ctwg-main-glossary/",
       "commitHash": "78021acc7f16a97a72c5a9c51ac0151c8eb2e4b3",
@@ -92,7 +92,7 @@
       ],
       "source": "xref",
       "termId": "term:user-datagram-protocol",
-      "lastUpdated": "2025-11-19T23:28:37.072Z"
+      "lastUpdated": "2025-11-26T09:48:43.359Z"
     },
     {
       "externalSpec": "toip1",
@@ -113,7 +113,7 @@
       "owner": "trustoverip",
       "repo": "ctwg-main-glossary",
       "site": null,
-      "branch": "typosOut",
+      "branch": "main",
       "avatarUrl": null,
       "ghPageUrl": "https://trustoverip.github.io/ctwg-main-glossary/",
       "commitHash": "78021acc7f16a97a72c5a9c51ac0151c8eb2e4b3",
@@ -123,7 +123,7 @@
       ],
       "source": "xref",
       "termId": "term:decentralized-identifier",
-      "lastUpdated": "2025-11-19T23:28:37.072Z"
+      "lastUpdated": "2025-11-26T09:48:43.359Z"
     },
     {
       "externalSpec": "toip1",
@@ -141,7 +141,7 @@
       "owner": "trustoverip",
       "repo": "ctwg-main-glossary",
       "site": null,
-      "branch": "typosOut",
+      "branch": "main",
       "avatarUrl": null,
       "ghPageUrl": "https://trustoverip.github.io/ctwg-main-glossary/",
       "commitHash": "78021acc7f16a97a72c5a9c51ac0151c8eb2e4b3",
@@ -151,7 +151,7 @@
       ],
       "source": "xref",
       "termId": "term:agent",
-      "lastUpdated": "2025-11-19T23:28:37.071Z"
+      "lastUpdated": "2025-11-26T09:48:43.359Z"
     }
   ]
 }
